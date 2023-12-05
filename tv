@@ -1,0 +1,388 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+
+#EXTINF:-1 tvg-chno="1"id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="",AZTECA INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+
+#EXTINF:-1 tvg-chno="2" tvg-name="Duplicate XEQ" id="" tvg-name="NUEVE 9" tvg-logo="" group-title="",NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="3"id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="4"id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="5"id="canal de las estrellas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa",Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="6" tvg-name="Canal 5 de México (XHGC)" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucVS0OhcevcVRnCwmK6eqtSTpeJCL2pwA1jijQy77pRKRDWueUHdAn50&usqp=CAU" group-title="Televisa", Canal 5 de México (XHGC)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="7" tvg-name="Duplicate XHIMT Canal 7 TV Azteca"  group-title="Bics Extra", Azteca 7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="8"id="" tvg-logo="" group-title="Undefined", Milenio TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="9"id="TeleFormula.mx" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="Undefined",TeleFórmula 
+https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-name="Imagen Noticias" id="ImagenTV"  tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Tv Abierta",Imagen Television
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="11"id="LasEstrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas Internacional
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-chno="12"id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="",Cartoon Network (Latin America - Panregional) (TOON) [305]
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="13"id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="",Cartoon Network 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="14"id="" tvg-name="DISNEY JR ESP" tvg-logo="" group-title="",Disney Junior (North Feed) (DISJR)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="15"id="" tvg-name="Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",Discovery Kids HDTV (Latin America) (DKIDSHD) [856]
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-chno="16"logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids 
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno="17"channel-id="samsung-ESBD130000205" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png"  group-title="Infantil" , Pitufo TV
+https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
+
+#EXTINF:-1 tvg-chno="18"logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="PREMIUM",Moni TV HD
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19" channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Mexico" , Bob Esponja Pantalones Cuadrados
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
+#EXTINF:-1 tvg-chno="20"id="Canal11" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Tv Abierta",Once 
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="21"id="Canal22.2" tvg-logo="https://pbs.twimg.com/profile_images/1640107960415268872/l2lvQ11P_400x400.jpg" group-title="Tv Abierta", NUESTRO CINE
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-name="Duplicate XEIMT TV Metropolitan (Canal 22)" id="Canal22.1" tvg-logo="https://pbs.twimg.com/profile_images/1640107960415268872/l2lvQ11P_400x400.jpg" group-title="Tv Abierta", XEIMT 22 Nacional (XEIMT)
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="23"id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Tv Abierta",TV Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="24"id="tvt" tvg-logo="https://tvt.mx/wp-content/uploads/2019/06/logo_tvt_normal.png" group-title="Tv Abierta2",TV Tabasquena
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="25"id="Canal14" tvg-logo="https://www.canalcatorce.tv/img/layout/logo_verde_footer_c14.svg" group-title="Tv Abierta2",Canal 14	
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+
+#EXTINF:-1 tvg-chno="26"id="" tvg-name="AZTECA UNO -1 hora" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="", AZTECA UNO -1 hora
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
+#EXTINF:-1 tvg-chno="27"id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/Vg1FlYWv3f_xiG-52sEBZoHuJY_R_s0GVMMPMgNxUMc.jpg" group-title="",AZTECA INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+
+#EXTINF:-1 tvg-chno="28" tvg-name="UNIVERSAL Crime" logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME us
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="29" tvg-name="ID"id="ID.mx"tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", ID | HD
+http://208.88.246.11:5473/andromeda/ID/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="30" tvg-name="178" tvg-id="I178.96307.schedulesdirect.org" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Channel LatinoAmerica HD
+http://livex.pop-app.live/s4n/poptv/DiscoveryChannel.TecnoByte/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-name="436 Discovery Familia" tvg-id="I436.58428.zap2it.com" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",Discovery Familia
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="32" tvg-name="Discovery World HD"group-title="CULTURA" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/disworld.webp",Discovery World
+http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="33" tvg-name="Discovery Science"group-title="TV PREMIUM", Discovery Science
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="34" tvg-name="Discovery 1080" logo="https://yt3.googleusercontent.com/nGxcVN230qK9wJkI94bGHT3v-t4dnfbhLjxheCeJMea0rJfb32DAUIH5XVgjQno0RcCOp6TpwQ=s100-c-k-c0x00ffffff-no-rj" group-title="CULTURA" ,Discovery 1080 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cAFxKa0T781RgCNLb4yDdA","kid":"6jKT5X-hWzGfbcxbZgGWGA"},{"kty":"oct","k":"X7TjNobU4OUIhI8ZzFtBhw","kid":"N1nZytfxX1ydvPQzBjmb9w"}],"type":"temporary"}
+https://tvup-gra-livegeo.secure2.footprint.net/discovery/discovery.mpd
+
+#EXTINF:-1 tvg-chno="35" tvg-name="182"tvg-id="I182.97928.schedulesdirect.org", DISCOVERY H&H
+http://208.88.246.11:5473/andromeda/DISCOVERYHH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="36" tvg-name="Discovery Theater HD"id="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png"  group-title="CONOCIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Discovery Theater HD
+http://208.88.246.11:5473/andromeda/DISCOVERYTH/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-chno="37" tvg-name="Discovery World HD"id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png"  group-title="CONOCIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Discovery World HD
+http://208.88.246.11:5473/live/DWORLD/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+#EXTINF:-1 tvg-chno="38"id="" tvg-name="372" tvg-id="I372.70669.schedulesdirect.org" tvg-logo="https://www.historylatam.com/themes/custom/history_base/images/history_logo.png" group-title="Mexico",History 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="39"id="" tvg-name="National Geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5fyYBH_uJCBFhRXpK02f1VOfUK2S6HXtg&usqp=CAU" group-title="Mexico",National Geographic LatinoAmerica HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="40"id="" tvg-name="435 NGMUNDO"   tcg-id="I435.72449.zap2it.com" tvg-logo="" group-title="",NATGEO MUNDO 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="41" tvg-name="NAT Geo Wild West"group-title="ESPAÑA" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+
+#EXTINF:-1 tvg-chno="42" tvg-name="238" tvg-id="I238.101734.schedulesdirect.org" tvg-logo="https://i.imgur.com/pWOcy4r.png" group-title="CULTURA",E! Entertainment TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="43" tvg-name="UNIVERSAL REALITY " group-title="Lista 27 solo OTT", UNIVERSAL REALITY 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700|user-agent=UniversoSport
+
+
+#EXTINF:-1 tvg-chno="44"id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/145px-TLC_logo_%282023%29.svg.png" group-title="Mexico",TLC FHD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="45"id="" tvg-name="CLIC" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/logo/366x206/1920_x_1080_0_2.jpg" group-title="",CLIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+
+#EXTINF:-1 tvg-chno="46" ,Canal Sony
+http://167.114.156.136:25461/INFINITV/ZX89NM22/53
+
+#EXTINF:-1 tvg-chno="47"id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG"  group-title="CINE" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Space | HD
+http://208.88.246.11:5473/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="48"id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", FX | HD
+http://208.88.246.11:5473/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="49"id="AXN.mx" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", AXN | HD
+http://208.88.246.11:5473/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="50", HGTV Latin America HDTV (Panregional) (HGTVHD)
+http://livex.pop-app.live/s4n/poptv/HGTV.TecnoByte/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51", Studio Universal (Mexico) (STUNI)
+http://livex.pop-app.live/s4n/poptv/StudioUniversal.TecnoByte/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52"id="TNTSeries.mx" tvg-name="TNT Series LatinoAmerica" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png"  group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", TNT Series LatinoAmerica
+http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="53" tvg-name="TNT AmericaLatina HD" tvg-id="TNT MX" logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="LIGAS EUROPEAS", TNT AmericaLatina HD
+http://208.88.246.77:5473/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="54" tvg-name="TNT AmericaLatina HD" tvg-id="TNT MX" logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" group-title="LIGAS EUROPEAS", TNT Latin America (Mexico) (TNT)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/57
+
+#EXTINF:-1 tvg-chno="55"id="love nature" tvg-logo="https://a.jsrdn.com/hls/23107/love-nature/thumbh_20230210_194648_270.jpg" group-title="documental",Love Nature Spanish
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="56"id="SABER MAS" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/SaberMas_cover_FastChannel_1920x1080-752x423.jpg" group-title="Tv Abierta2",SABER MAS
+https://sabermas-distro.amagi.tv/SaberMas-xumo/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="57"id=" group-title="Bics", UNICABLE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="58"id="" tvg-name="Unimas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",Unimas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="59" tvg-name="RCN Xtra"group-title="Bics Extra",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60"channel-id="plex-608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13" tvg-id="608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e145a28-6a65-4ab7-9347-319b8909ee73/rcn_mas_logo.png" , RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="61"id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",Estrella TV 
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="62"id="EstrellaGames.us" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",Estrella Games 
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-name="MULTIMEDIOS TV HD" id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Monterrey
+http://167.114.156.136:25461/INFINITV/ZX89NM22/89
+
+#EXTINF:-1 tvg-chno="64"logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="USA", TELEMUNDO MIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="65"id="" tvg-name="Telemundo New York" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",Telemundo New York
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="66"logo="https://rndserv.xyz/img/telemundo.png", Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-chno="67"id="" tvg-name="UNIVISION" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="Mexico",Univision 
+http://167.114.156.136:25461/INFINITV/ZX89NM22/173
+
+#EXTINF:-1 tvg-chno="68"group-title="Bics Extra", Univisión (Latin America) (UNIVIS) [407]
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="69", TELE 11 
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+#EXTINF:-1 tvg-chno="70"group-title="ENTRETENIMIENTO",TELECLASICAS
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="71"logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg" group-title="24/7", TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="72"logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_524,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/totovision.png" group-title="INTERNACIONAL", TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 tvg-chno="73" group-title="COSTA RICA", Multizonas tv | HD
+https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="74"id="CANAL 57 Palm Beach Spanish TV Station" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Tv Abierta2",CANAL 57 Palm Beach Spanish TV Station
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
+
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniBkt2owc7521PEADA6YRtBj-pHALzuFFgnJy5eZQ=s240-c-k-c0x00ffffff-no-rj" group-title="PREMIUM", WTV NIC
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="76"group-title="Bics", Euronews Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
+
+#EXTINF:-1 tvg-chno="77"id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español 
+http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="78"id="RTinSpanish.mx" tvg-name="RT en español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png" group-title="INTERNACIONAL",RT en español
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-chno="79"id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW en español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/channel-meganoticias-16x9_0.jpg", MegaNoticias
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="81"id="Forotv" logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Televisa" tvg-name="FORO TV Mexico",FORO TV 
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="82"id="N+media" tvg-logo="NPlusMedia.mx" tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="Televisa",N+Media
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
+
+#EXTINF:-1 tvg-chno="83"id="N+" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="Televisa",N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="84"id=" group-title="Bics",NOVELAS TURCAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+#EXTINF:-1 tvg-chno="85" channel-id="roku-3bc1756db0ef525b9cab86edcd426c55" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/3bc1756db0ef525b9cab86edcd426c55/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659743529637_Hud_Logo_Canela_Telenovelas-1_2022.png"  , Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-chno="86"channel-id="pluto-639751f81a36b400072b8f5a" tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png"  group-title="Mexico" , Vive Kanal D Drama
+https://i.mjh.nz/SamsungTVPlus/ESBC1700001QI.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 tvg-chno="87"channel-id="plex-608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df" tvg-id="608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" , Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-chno="88" channel-id="plex-5e20b730f2f8d5003d739db7-65257cdf65486aca7aa77716" tvg-id="5e20b730f2f8d5003d739db7-65257cdf65486aca7aa77716" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2739b655-c5dc-4dc7-87e3-af779b75a2dc/TD_LOGO_TRANSP_1500x1000_COLOR_Karina_BrogliaRDX_FIXED.png" group-title="USA" , Todo Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6111
+
+#EXTINF:-1 tvg-chno="89"channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png" group-title="Latino" , Sony Canal Novelas
+https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
+
+#EXTINF:-1 tvg-chno="90"id="CANELA MUSIC" tvg-logo="" group-title="musica",CANELA MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+
+#EXTINF:-1 tvg-chno="91"id="REGIONAL MEXICANO" tvg-logo="" group-title="musica",REGIONAL MEXICANO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+
+#EXTINF:-1 tvg-chno="92"id="TU POP FAVORITO" tvg-logo="" group-title="musica",TU POP FAVORITO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
+#EXTINF:-1 tvg-chno="93"id="CANELA MUSIC HITS" tvg-logo="" group-title="musica",CANELA MUSIC HITS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+
+#EXTINF:-1 tvg-chno="94"id="RITMOS INOLVIDABLES" tvg-logo="" group-title="musica",RITMOS INOLVIDABLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+
+#EXTINF:-1 tvg-chno="95"id="CONCIERTOS" tvg-logo="" group-title="musica",CONCIERTOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+
+#EXTINF:-1 tvg-chno="96"id="PURO ROMANCE" tvg-logo="" group-title="musica",PURO ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1 tvg-chno="97"logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Musica", XITE Rock On
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="98"logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Cine y Series", Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="99" id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV ✪ | CL
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-chno="100"group-title="ENTRETENIMIENTO" tvg-id="6" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
+
+#EXTINF:-1 tvg-chno="101" tvg-name="Sony Cine"  id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies", Cine Sony Television (CSONY)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/643|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="102"id="Horrorfy" tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2022/10/Horrofy_cover_FastChannel_1920x1080-752x423.jpg" group-title="Movies2",Horrorfy
+https://horrorfy-distro.amagi.tv/Horrify-roku/master.m3u8
+
+
+#EXTINF:-1 tvg-chno="103",CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+
+#EXTINF:-1 tvg-chno="104"id="" tvg-name="canela horror" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg" group-title="",Canela Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+
+#EXTINF:-1 tvg-chno="105"id="GOLDEN plus" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies2",GOLDEN 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="106"id="GOLDEN plus" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies2",GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="107"logo="http://181.189.243.217:8000/playlist/tvg-logo/a0oc.png" group-title="TV PREMIUM", Golden Premier
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="108"logo="https://i.ibb.co/nM9zqm0/Mx-de-pelicula-m.png" tvg-group="CINE Y SERIES", DE PELICULA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="109" tvg-name="HBO Plus (Mexico) (HBO+)" tvg-id="HBO.Plus.(Mexico).(HBO+).mx"id="" tvg-name="HBO2" tvg-logo="" group-title="" ,HBO Plus (Mexico) (HBO+)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/215
+
+#EXTINF:-1 tvg-chno="110" tvg-name="348" tvg-id="HBO2.mx(m3u4u)"id="" tvg-name="HBO2" tvg-logo="" group-title="",HBO 2 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="111" tvg-name="Universal Cinema" tvg-id="" group-title="PREMIUM" , Universal Cinema 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="112" group-title="Lista 27 solo OTT", UNIVERSAL PREMIERE  
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="113" group-title="Lista 27 solo OTT", UNIVERSAL COMEDY 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="114" tvg-name="Cinemax" group-title="HD",CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769|user-agent=UniversoSport
+
+
+#EXTINF:-1 tvg-chno="115" tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-chno="116"id="" tvg-name="UNIVISION" tvg-logo="" group-title="",UNIVISION 🇺🇸 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="117"id="" tvg-name="NBC Universo" tvg-logo="" group-title="", UNIVERSO HDTV (East) (UNVSOHD)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665|user-agent=UniversoSport
+
+
+#EXTINF:-1 tvg-chno="118" tvg-name="TUDN" channel id="TUDN(Spanish).us(m3u4u)" id="TUDN univision 🇺🇸" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="Deportes",Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722|user-agent=UniversoSport
+
+#EXTINF:-1 tvg-chno="119" tvg-name="FOX SPORTS Premium" logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="MEXICO", Fox Sports Premium 🇲🇽 
+http://208.88.246.77:5473/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+#EXTINF:-1 tvg-chno="120" tvg-name="ESPN Deportes" channel id="ESPNDeportes(Spanish).us(m3u4u)" id="" tvg-name="ESPN Deportesⓧ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="Sports",ESPN Deportes HDTV (EDEPHD)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/167
+
+#EXTINF:-1 tvg-chno="121" tvg-name="Claro Sports 1" tvg-id="I145.72291.schedulesdirect.org" tvg-logo="https://i.picasion.com/pic92/6f2c6e86536a9101ec707922eb71cb8c.gif" group-title="Deportes",Claro Sports 🇲🇽
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+
+
+
+
+
+
+
+
+
